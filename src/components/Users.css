@@ -326,10 +326,10 @@
 @media (max-width: 460px){
       .users-list{
         width: 200%;
-        margin-left: -56px;
-        margin-right: -56px;
+        margin-left: -52px;
+        margin-right: -52px;
         box-shadow: 0 2px 10px rgba(0, 0, 0, 0.4);
-        height: 34rem;
+        height: 38rem;
       }
 
       .list-body{
@@ -342,8 +342,8 @@
 
       .user-details{
         width: 200%;
-        margin-left: -56px;
-        margin-right: -56px;
+        margin-left: -52px;
+        margin-right: -52px;
         height: 38rem;
       }
 
