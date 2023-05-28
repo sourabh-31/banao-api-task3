@@ -70,3 +70,19 @@
       margin-left: -40px;
     }
 }
+
+@media (max-width: 460px){
+  .logo{
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-left: -8rem;
+  }
+
+  .card-bottom-1  {
+    display: none;
+  }
+
+  .header{
+    justify-content: center;
+  }
+}
